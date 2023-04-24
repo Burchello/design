@@ -74,7 +74,6 @@
     margin: 0 auto;
   }
 
-
   .styles__img {
     position: relative;
   }
@@ -82,7 +81,7 @@
   .styles-photo-1 {
     top: -200px;
   }
-  
+
   .styles-photo-2 {
     display: none;
   }
@@ -169,7 +168,7 @@
 
   .project__block-right {
     position: absolute;
-    top: 250px
+    top: 250px;
   }
 
   .control {
@@ -223,7 +222,7 @@
 
   .repair {
     margin-top: 0;
-    padding: 30px 20px 0 ;
+    padding: 30px 20px 0;
   }
 
   .repair__blog {
